@@ -16,6 +16,8 @@ A modern, fully functional calculator built with HTML, CSS, and JavaScript featu
 
 [View Live Calculator](https://amarkant3694.github.io/calculator)
 
+<img width="566" height="853" alt="Screenshot 2025-11-15 215036" src="https://github.com/user-attachments/assets/2566584d-28cb-44df-9957-04a2aec24866" />
+
 # 🎮 How to Use
 
 # Mouse Controls
@@ -78,7 +80,7 @@ You can easily customize the calculator by modifying the CSS variables:
 # 🐛 Known Issues
 
 - Very long numbers may overflow the display
-- No scientific notation support yet<img width="566" height="853" alt="Screenshot 2025-11-15 215036" src="https://github.com/user-attachments/assets/2566584d-28cb-44df-9957-04a2aec24866" />
+- No scientific notation support yet
 
 
 ## 🚀 Future Enhancements
